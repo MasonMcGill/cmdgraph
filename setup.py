@@ -7,8 +7,8 @@ short_desc = (
 long_desc = Path('readme.md').read_text()
 
 setup(
-    py_modules=['crafty'],
-    name='crafty',
+    py_modules=['cmdgraph'],
+    name='cmdgraph',
     version='0.2.0',
     description=short_desc,
     long_description=long_desc,
