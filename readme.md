@@ -1,3 +1,5 @@
+***[Deprecation notice] [Artisan](https://github.com/MasonMcGill/artisan) is the future of CommandGraph. The difference is, essentially, a switch from being verb-oriented (commands) to noun-oriented (artifacts), which allows users to write more succinct, [statically analyzable](http://mypy-lang.org/) code.***
+
 CommandGraph is a small set of complimentary tools for exploratory computational research. It provides functionality to simplify the following tasks:
 
 - Routing, validating, and storing command configurations
